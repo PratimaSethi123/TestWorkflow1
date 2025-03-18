@@ -1,0 +1,12 @@
+name: 'Hello World Docker'
+description: 'Hello'
+inputs:
+  who-to-greet:
+    required: true
+    description: 'who to greet'
+    default: 'world'
+
+  outputs:
+    time:
+      
+ 
